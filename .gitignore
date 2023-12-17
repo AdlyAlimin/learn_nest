@@ -36,3 +36,7 @@ lerna-debug.log*
 
 # Upload Folder
 /public
+
+# Enviroment
+.env
+.env.backup
